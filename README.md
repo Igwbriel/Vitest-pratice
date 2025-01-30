@@ -18,14 +18,14 @@
 ##### Testes Paralelos e Isolados
 - Executa testes em múltiplas threads, garantindo isolamento e eficiência.
 
-##### instalação
+### instalação
 para instalar o vitest, pode se usar o NPM
 - npm install -D vitest
 
 ou o Yarn
 - yarn add -D vitest
 
-##### Executando testes
+### Executando testes
 para rodar todos os testes utiliza o comando: 
 - npm run test
 
