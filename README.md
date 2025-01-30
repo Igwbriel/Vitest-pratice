@@ -33,3 +33,8 @@ Se quiser executar os testes em modo watch (observação contínua):
 
 - npm run test -- --watch
 
+### Referências
+
+- https://vitest.dev/guide/
+- https://medium.com/@joalisonpereira/vitest-uma-evolução-do-jest-49db62c50cc5
+- https://felipecesar.dev/posts/vitest-a-proxima-geracao-dos-frameworks-de-teste
